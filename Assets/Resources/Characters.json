@@ -1,0 +1,40 @@
+﻿[
+    {
+        "id": 0,
+        "name": "日军士兵",
+        "faction": "Enemy",
+        "characterType": "Common",
+        "constitution": 8,
+        "strength": 8,
+        "agility": 8,
+        "dexterous": 8,
+        "concentration": 8,
+        "sprite": "Sprites/Heads/日军/日军01",
+        "head": 94,
+        "cloth": 93,
+        "pants": 95,
+        "belt": "T2",
+        "weapon": 263,
+        "allExperience": 4000,
+		"characterKind":"日军"
+    },
+    {
+        "id": 1,
+        "name": "日军士官",
+        "faction": "Enemy",
+        "characterType": "Hero",
+        "constitution": 15,
+        "strength": 15,
+        "agility": 15,
+        "dexterous": 15,
+        "concentration": 15,
+        "sprite": "Sprites/Heads/日军/日军03",
+        "head": 100,
+        "cloth": 99,
+        "pants": 101,
+        "belt": "T2",
+        "weapon": 263,
+        "allExperience": 7000,
+		"characterKind":"日军"
+    }
+]

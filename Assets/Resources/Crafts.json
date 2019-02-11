@@ -1,0 +1,1510 @@
+﻿[
+    {
+        "id": 1,
+        "name": "熟肉",
+        "isNeedLearn": 0,
+        "type": "生存",
+        "needItemIDs": [
+            "40",
+            "36"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "4"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "面粉",
+        "isNeedLearn": 0,
+        "type": "生存",
+        "needItemIDs": [
+            "67",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "41"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "热源",
+        "isNeedLearn": 0,
+        "type": "生存",
+        "needItemIDs": [
+            "30",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "40"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "碎石",
+        "isNeedLearn": 0,
+        "type": "生存",
+        "needItemIDs": [
+            "26"
+        ],
+        "needItemCount": [
+            "1"
+        ],
+        "getItemIDs": [
+            "39"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "纤维",
+        "isNeedLearn": 0,
+        "type": "生存",
+        "needItemIDs": [
+            "42"
+        ],
+        "needItemCount": [
+            "3"
+        ],
+        "getItemIDs": [
+            "32"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "小麦",
+        "isNeedLearn": 0,
+        "type": "生存",
+        "needItemIDs": [
+            "42"
+        ],
+        "needItemCount": [
+            "3"
+        ],
+        "getItemIDs": [
+            "67"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "药材",
+        "isNeedLearn": 0,
+        "type": "药物",
+        "needItemIDs": [
+            "42"
+        ],
+        "needItemCount": [
+            "3"
+        ],
+        "getItemIDs": [
+            "23"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "绷带",
+        "isNeedLearn": 0,
+        "type": "药物",
+        "needItemIDs": [
+            "38"
+        ],
+        "needItemCount": [
+            "3"
+        ],
+        "getItemIDs": [
+            "8"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "梭标",
+        "isNeedLearn": 0,
+        "type": "武器",
+        "needItemIDs": [
+            "30",
+            "24",
+            "32",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "249"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "飞刀",
+        "isNeedLearn": 0,
+        "type": "武器",
+        "needItemIDs": [
+            "24",
+            "39"
+        ],
+        "needItemCount": [
+            "2",
+            "1"
+        ],
+        "getItemIDs": [
+            "250"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "弩矢",
+        "isNeedLearn": 0,
+        "type": "武器",
+        "needItemIDs": [
+            "28",
+            "24",
+            "30"
+        ],
+        "needItemCount": [
+            "1",
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "59"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "火药",
+        "isNeedLearn": 0,
+        "type": "武器",
+        "needItemIDs": [
+            "24",
+            "29"
+        ],
+        "needItemCount": [
+            "5",
+            "2"
+        ],
+        "getItemIDs": [
+            "29"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "火药制品",
+        "isNeedLearn": 0,
+        "type": "武器",
+        "needItemIDs": [
+            "24",
+            "29"
+        ],
+        "needItemCount": [
+            "5",
+            "5"
+        ],
+        "getItemIDs": [
+            "66"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "拆解狩猎弩",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "272",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30"
+        ],
+        "getItemCount": [
+            "1",
+            "1"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "拆解土制火器",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "273",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30"
+        ],
+        "getItemCount": [
+            "1",
+            "1"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "拆解火铳",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "274",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30"
+        ],
+        "getItemCount": [
+            "1",
+            "1"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "拆解康熙自来火MK2燧发枪",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "275",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30"
+        ],
+        "getItemCount": [
+            "1",
+            "1"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "拆解褐贝斯1778燧发枪枪",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "276",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30"
+        ],
+        "getItemCount": [
+            "2",
+            "2"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "拆解褐贝斯燧发卡宾枪",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "277",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30"
+        ],
+        "getItemCount": [
+            "2",
+            "2"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "拆解斯普林菲尔德1855燧发枪",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "278",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30"
+        ],
+        "getItemCount": [
+            "2",
+            "2"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "拆解双管猎枪",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "279",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30"
+        ],
+        "getItemCount": [
+            "2",
+            "2"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "拆解毛瑟1871步枪",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "280",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30",
+            "25"
+        ],
+        "getItemCount": [
+            "2",
+            "2",
+            "1"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "拆解勒贝尔1886步枪枪",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "281",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30",
+            "25"
+        ],
+        "getItemCount": [
+            "2",
+            "2",
+            "1"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "拆解委员会1888步枪",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "282",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30",
+            "25"
+        ],
+        "getItemCount": [
+            "2",
+            "2",
+            "1"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "拆解莫辛纳甘1891步枪",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "283",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30",
+            "25"
+        ],
+        "getItemCount": [
+            "2",
+            "2",
+            "1"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "拆解友坂30式步枪",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "284",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30",
+            "25"
+        ],
+        "getItemCount": [
+            "2",
+            "2",
+            "1"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "拆解柯尔特早期型",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "285",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30",
+            "25"
+        ],
+        "getItemCount": [
+            "2",
+            "2",
+            "1"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "拆解马蒂尼亨利步枪",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "286",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30",
+            "25"
+        ],
+        "getItemCount": [
+            "4",
+            "4",
+            "4"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "拆解先进柯尔特连发步枪",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "287",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30",
+            "25"
+        ],
+        "getItemCount": [
+            "4",
+            "6",
+            "4"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "拆解先进柯尔特左轮手枪",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "288",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30",
+            "25"
+        ],
+        "getItemCount": [
+            "4",
+            "6",
+            "4"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "拆解特制版柯尔特手枪",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "289",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30",
+            "25"
+        ],
+        "getItemCount": [
+            "4",
+            "10",
+            "4"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "拆解毛瑟1898步枪",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "290",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30",
+            "25"
+        ],
+        "getItemCount": [
+            "4",
+            "10",
+            "4"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "拆解费德洛夫步枪",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "291",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30",
+            "25"
+        ],
+        "getItemCount": [
+            "4",
+            "10",
+            "4"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "拆解诸葛连弩",
+        "isNeedLearn": 0,
+        "type": "拆解",
+        "needItemIDs": [
+            "292",
+            "39"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "24",
+            "30",
+            "25"
+        ],
+        "getItemCount": [
+            "4",
+            "10",
+            "4"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "面包",
+        "isNeedLearn": 1,
+        "type": "生存",
+        "needItemIDs": [
+            "40",
+            "41"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "2"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "包子",
+        "isNeedLearn": 1,
+        "type": "生存",
+        "needItemIDs": [
+            "40",
+            "36"
+        ],
+        "needItemCount": [
+            "1",
+            "1"
+        ],
+        "getItemIDs": [
+            "3"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "皮革",
+        "isNeedLearn": 1,
+        "type": "生存",
+        "needItemIDs": [
+            "37",
+            "39"
+        ],
+        "needItemCount": [
+            "2",
+            "1"
+        ],
+        "getItemIDs": [
+            "34"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "金创药",
+        "isNeedLearn": 1,
+        "type": "药物",
+        "needItemIDs": [
+            "23",
+            "39"
+        ],
+        "needItemCount": [
+            "2",
+            "1"
+        ],
+        "getItemIDs": [
+            "7"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "人参茶",
+        "isNeedLearn": 1,
+        "type": "药物",
+        "needItemIDs": [
+            "23",
+            "40"
+        ],
+        "needItemCount": [
+            "10",
+            "1"
+        ],
+        "getItemIDs": [
+            "10"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "鹿茸羹",
+        "isNeedLearn": 1,
+        "type": "药物",
+        "needItemIDs": [
+            "23",
+            "40"
+        ],
+        "needItemCount": [
+            "10",
+            "1"
+        ],
+        "getItemIDs": [
+            "11"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "虎骨酒",
+        "isNeedLearn": 1,
+        "type": "药物",
+        "needItemIDs": [
+            "23",
+            "40"
+        ],
+        "needItemCount": [
+            "10",
+            "1"
+        ],
+        "getItemIDs": [
+            "12"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "熊胆丸",
+        "isNeedLearn": 1,
+        "type": "药物",
+        "needItemIDs": [
+            "23",
+            "40"
+        ],
+        "needItemCount": [
+            "10",
+            "1"
+        ],
+        "getItemIDs": [
+            "13"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "牛鞭汤",
+        "isNeedLearn": 1,
+        "type": "药物",
+        "needItemIDs": [
+            "23",
+            "40"
+        ],
+        "needItemCount": [
+            "10",
+            "1"
+        ],
+        "getItemIDs": [
+            "14"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "飞刀",
+        "isNeedLearn": 1,
+        "type": "武器",
+        "needItemIDs": [
+            "24",
+            "39"
+        ],
+        "needItemCount": [
+            "2",
+            "1"
+        ],
+        "getItemIDs": [
+            "250"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "狩猎弩",
+        "isNeedLearn": 1,
+        "type": "武器",
+        "needItemIDs": [
+            "24",
+            "30",
+            "32"
+        ],
+        "needItemCount": [
+            "4",
+            "4",
+            "2"
+        ],
+        "getItemIDs": [
+            "251"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "土制火器",
+        "isNeedLearn": 1,
+        "type": "武器",
+        "needItemIDs": [
+            "24",
+            "30",
+            "25"
+        ],
+        "needItemCount": [
+            "5",
+            "5",
+            "1"
+        ],
+        "getItemIDs": [
+            "252"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "土制火器",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "273",
+            "24",
+            "30"
+        ],
+        "needItemCount": [
+            "1",
+            "2",
+            "2"
+        ],
+        "getItemIDs": [
+            "252"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "狩猎弩",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "272",
+            "32",
+            "30"
+        ],
+        "needItemCount": [
+            "1",
+            "2",
+            "2"
+        ],
+        "getItemIDs": [
+            "251"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "火铳",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "274",
+            "24",
+            "30"
+        ],
+        "needItemCount": [
+            "1",
+            "2",
+            "2"
+        ],
+        "getItemIDs": [
+            "253"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "康熙自来火MK2燧发枪",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "275",
+            "24",
+            "30"
+        ],
+        "needItemCount": [
+            "1",
+            "3",
+            "3"
+        ],
+        "getItemIDs": [
+            "254"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 51,
+        "name": "褐贝斯1778燧发枪",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "276",
+            "24",
+            "30"
+        ],
+        "needItemCount": [
+            "1",
+            "4",
+            "2"
+        ],
+        "getItemIDs": [
+            "255"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 52,
+        "name": "褐贝斯燧发卡宾枪",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "277",
+            "24",
+            "30"
+        ],
+        "needItemCount": [
+            "1",
+            "3",
+            "3"
+        ],
+        "getItemIDs": [
+            "256"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 53,
+        "name": "斯普林菲尔德1855燧发枪",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "278",
+            "24",
+            "30",
+            "25"
+        ],
+        "needItemCount": [
+            "1",
+            "3",
+            "3",
+            "2"
+        ],
+        "getItemIDs": [
+            "257"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 54,
+        "name": "双管猎枪",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "279",
+            "24",
+            "30",
+            "34"
+        ],
+        "needItemCount": [
+            "1",
+            "3",
+            "2",
+            "1"
+        ],
+        "getItemIDs": [
+            "258"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 55,
+        "name": "毛瑟1871步枪",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "280",
+            "24",
+            "30",
+            "34",
+            "25"
+        ],
+        "needItemCount": [
+            "1",
+            "4",
+            "2",
+            "2",
+            "2"
+        ],
+        "getItemIDs": [
+            "259"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 56,
+        "name": "勒贝尔1886步枪",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "281",
+            "24",
+            "30",
+            "34",
+            "25"
+        ],
+        "needItemCount": [
+            "1",
+            "5",
+            "2",
+            "2",
+            "2"
+        ],
+        "getItemIDs": [
+            "260"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 57,
+        "name": "委员会1888步枪",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "282",
+            "24",
+            "30",
+            "34",
+            "25"
+        ],
+        "needItemCount": [
+            "1",
+            "6",
+            "2",
+            "2",
+            "3"
+        ],
+        "getItemIDs": [
+            "261"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 58,
+        "name": "莫辛纳甘1891步枪",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "283",
+            "24",
+            "30",
+            "34",
+            "25"
+        ],
+        "needItemCount": [
+            "1",
+            "6",
+            "2",
+            "2",
+            "3"
+        ],
+        "getItemIDs": [
+            "262"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 59,
+        "name": "友坂30式步枪",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "284",
+            "24",
+            "30",
+            "34",
+            "25"
+        ],
+        "needItemCount": [
+            "1",
+            "6",
+            "2",
+            "2",
+            "3"
+        ],
+        "getItemIDs": [
+            "263"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 60,
+        "name": "柯尔特早期型",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "285",
+            "24",
+            "30",
+            "34",
+            "25"
+        ],
+        "needItemCount": [
+            "1",
+            "6",
+            "2",
+            "2",
+            "5"
+        ],
+        "getItemIDs": [
+            "264"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 61,
+        "name": "马蒂尼亨利步枪",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "286",
+            "24",
+            "30",
+            "34",
+            "25"
+        ],
+        "needItemCount": [
+            "1",
+            "10",
+            "2",
+            "2",
+            "8"
+        ],
+        "getItemIDs": [
+            "265"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 62,
+        "name": "先进柯尔特连发步枪",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "287",
+            "24",
+            "30",
+            "34",
+            "25"
+        ],
+        "needItemCount": [
+            "1",
+            "10",
+            "2",
+            "2",
+            "10"
+        ],
+        "getItemIDs": [
+            "266"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 63,
+        "name": "先进柯尔特左轮手枪",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "288",
+            "24",
+            "30",
+            "34",
+            "25"
+        ],
+        "needItemCount": [
+            "1",
+            "10",
+            "2",
+            "2",
+            "8"
+        ],
+        "getItemIDs": [
+            "267"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 64,
+        "name": "特制版柯尔特手枪",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "289",
+            "24",
+            "43",
+            "34",
+            "25"
+        ],
+        "needItemCount": [
+            "1",
+            "10",
+            "3",
+            "2",
+            "8"
+        ],
+        "getItemIDs": [
+            "268"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 65,
+        "name": "毛瑟1898步枪",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "290",
+            "24",
+            "30",
+            "34",
+            "25"
+        ],
+        "needItemCount": [
+            "1",
+            "10",
+            "10",
+            "2",
+            "10"
+        ],
+        "getItemIDs": [
+            "269"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 66,
+        "name": "费德洛夫步枪",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "291",
+            "24",
+            "30",
+            "34",
+            "25"
+        ],
+        "needItemCount": [
+            "1",
+            "10",
+            "10",
+            "2",
+            "10"
+        ],
+        "getItemIDs": [
+            "270"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    },
+    {
+        "id": 67,
+        "name": "诸葛连弩",
+        "isNeedLearn": 1,
+        "type": "维修",
+        "needItemIDs": [
+            "292",
+            "24",
+            "30",
+            "34",
+            "25",
+            "32"
+        ],
+        "needItemCount": [
+            "1",
+            "10",
+            "10",
+            "4",
+            "10",
+            "10"
+        ],
+        "getItemIDs": [
+            "271"
+        ],
+        "getItemCount": [
+            "1"
+        ]
+    }
+]

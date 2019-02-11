@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1105 &110500000
+HumanTemplate:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Characters_Male_Base
+  m_BoneTemplate:
+    Chest: ORG-chest
+    Head: DEF-head
+    Hips: ORG-hips
+    Left Index Distal: ORG-f_index.03.L
+    Left Index Intermediate: ORG-f_index.02.L
+    Left Index Proximal: ORG-f_index.01.L
+    Left Little Distal: ORG-f_pinky.03.L
+    Left Little Intermediate: ORG-f_pinky.02.L
+    Left Little Proximal: ORG-f_pinky.01.L
+    Left Middle Distal: ORG-f_middle.03.L
+    Left Middle Intermediate: ORG-f_middle.02.L
+    Left Middle Proximal: ORG-f_middle.01.L
+    Left Ring Distal: ORG-f_ring.03.L
+    Left Ring Intermediate: ORG-f_ring.02.L
+    Left Ring Proximal: ORG-f_ring.01.L
+    Left Thumb Distal: ORG-thumb.03.L
+    Left Thumb Intermediate: ORG-thumb.02.L
+    Left Thumb Proximal: ORG-thumb.01.L
+    LeftFoot: ORG-foot.L
+    LeftHand: ORG-hand.L
+    LeftLowerArm: ORG-forearm.L
+    LeftLowerLeg: ORG-shin.L
+    LeftShoulder: ORG-shoulder.L
+    LeftToes: ORG-toe.L
+    LeftUpperArm: ORG-upper_arm.L
+    LeftUpperLeg: ORG-thigh.L
+    Neck: ORG-neck
+    Right Index Distal: ORG-f_index.03.R
+    Right Index Intermediate: ORG-f_index.02.R
+    Right Index Proximal: ORG-f_index.01.R
+    Right Little Distal: ORG-f_pinky.03.R
+    Right Little Intermediate: ORG-f_pinky.02.R
+    Right Little Proximal: ORG-f_pinky.01.R
+    Right Middle Distal: ORG-f_middle.03.R
+    Right Middle Intermediate: ORG-f_middle.02.R
+    Right Middle Proximal: ORG-f_middle.01.R
+    Right Ring Distal: ORG-f_ring.03.R
+    Right Ring Intermediate: ORG-f_ring.02.R
+    Right Ring Proximal: ORG-f_ring.01.R
+    Right Thumb Distal: ORG-thumb.03.R
+    Right Thumb Intermediate: ORG-thumb.02.R
+    Right Thumb Proximal: ORG-thumb.01.R
+    RightFoot: ORG-foot.R
+    RightHand: ORG-hand.R
+    RightLowerArm: ORG-forearm.R
+    RightLowerLeg: ORG-shin.R
+    RightShoulder: ORG-shoulder.R
+    RightToes: ORG-toe.R
+    RightUpperArm: ORG-upper_arm.R
+    RightUpperLeg: ORG-thigh.R
+    Spine: ORG-spine
